@@ -1,0 +1,195 @@
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\appsettings.Development.json
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\appsettings.json
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\InstaBet Website.staticwebassets.runtime.json
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\InstaBet Website.staticwebassets.endpoints.json
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\InstaBet Website.exe
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\InstaBet Website.deps.json
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\InstaBet Website.runtimeconfig.json
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\InstaBet Website.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\InstaBet Website.pdb
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\rpswa.dswa.cache.json
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\InstaBet Website.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\InstaBet Website.AssemblyInfoInputs.cache
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\InstaBet Website.AssemblyInfo.cs
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\InstaBet Website.csproj.CoreCompileInputs.cache
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\InstaBet Website.MvcApplicationPartsAssemblyInfo.cache
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\InstaBet Website.RazorAssemblyInfo.cache
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\InstaBet Website.RazorAssemblyInfo.cs
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\rjimswa.dswa.cache.json
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\rjsmrazor.dswa.cache.json
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\rjsmcshtml.dswa.cache.json
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\scopedcss\bundle\InstaBet Website.styles.css
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\scopedcss\projectbundle\InstaBet Website.bundle.scp.css
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\4lh9y97njc-{0}-4igcxewjl9-4igcxewjl9.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\j776w1kmaz-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\kg55finz2h-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\uigc97lg4x-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\h0scxpweis-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\7q0yyfnc3g-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\t0dpwykwth-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\wacm2ahm13-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\w8l0hboa2h-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\5esmvori0a-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\gqoltxlyla-{0}-ub07r2b239-ub07r2b239.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\2xpt3ihqrp-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\upa3u6g4ud-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\hr1oqe3cx7-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\5yihrjibux-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\vd1a3uj7tm-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\51mkn7ncq1-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\qvej254ogs-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\cp4rreycda-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\hkvr7717ql-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\7fmugk0v9o-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\btz6l5xzcv-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\zrx67rbf1l-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\i5qwfqh0q8-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\nqpvgbyuxz-{0}-06098lyss8-06098lyss8.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\lgjoys8yub-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\2926eo4ytl-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\j63p8thvtk-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\yazbe3p5cj-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\81qa30k1pq-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\8z5ofbsr3e-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\qmbyxt92j2-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\tz9fag8tbt-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\3gn8c3sspx-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\ye6jbocl2w-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\v65n3phwsr-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\izcseknfoz-{0}-493y06b0oq-493y06b0oq.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\zfee05x1na-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\bv0pc5e4dx-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\gxbacw71y5-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\9eam1pzz17-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\t4wnsp83qn-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\wdr0vky0jd-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\8wtoigmi3n-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\grkt3xwqri-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\loixctivxk-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\xs23jeq98o-{0}-47otxtyo56-47otxtyo56.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\wwehi31594-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\lfx8ugahi5-{0}-356vix0kms-356vix0kms.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\1w7brenq0a-{0}-83jwlth58m-83jwlth58m.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\t73hukt269-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\94d13ixf19-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\7v8j0ogm3d-{0}-ag7o75518u-ag7o75518u.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\w0tgmwb8uh-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\wcpx9cmor2-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\xj7xjtbebk-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\ug4f8ybgf7-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\dy5umruv5j-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\cibalx9cgq-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\de43bfydtl-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\94e6uo7n5j-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\c1f7xre527-{0}-jxmxvoktvh-jxmxvoktvh.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\g5m5vvg388-{0}-jxmxvoktvh-jxmxvoktvh.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\staticwebassets.build.json
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\staticwebassets.build.json.cache
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\staticwebassets.development.json
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\staticwebassets.build.endpoints.json
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\swae.build.ex.cache
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\staticwebassets.upToDateCheck.txt
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\InstaBet Website.dll
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\refint\InstaBet Website.dll
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\InstaBet Website.pdb
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\InstaBet Website.genruntimeconfig.cache
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\ref\InstaBet Website.dll
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\InstaBet.2532F521.Up2Date
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\ph8w3tf72t-{0}-o0a9jxg0cv-o0a9jxg0cv.gz
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\Azure.Core.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\Azure.Identity.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\Microsoft.Data.SqlClient.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\Microsoft.Identity.Client.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\Microsoft.Identity.Client.Broker.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\Microsoft.Identity.Client.NativeInterop.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\Microsoft.SqlServer.Server.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\SQLite-net.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\SQLitePCLRaw.core.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\System.ClientModel.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\System.Configuration.ConfigurationManager.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\System.Memory.Data.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\linux-x64\native\libmsalruntime.so
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\osx-arm64\native\msalruntime_arm64.dylib
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\osx-x64\native\msalruntime.dylib
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\win-x64\native\msalruntime.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\win-x86\native\msalruntime_x86.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\android-arm\native\libe_sqlite3.so
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\android-arm64\native\libe_sqlite3.so
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\android-x64\native\libe_sqlite3.so
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\android-x86\native\libe_sqlite3.so
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\ios-arm\native\e_sqlite3.a
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\ios-arm64\native\e_sqlite3.a
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\iossimulator-arm64\native\e_sqlite3.a
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\iossimulator-x64\native\e_sqlite3.a
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\linux-arm\native\libe_sqlite3.a
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\linux-arm64\native\libe_sqlite3.a
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\linux-armel\native\libe_sqlite3.a
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\linux-mips64\native\libe_sqlite3.a
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.a
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.a
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\linux-musl-riscv64\native\libe_sqlite3.a
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.a
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.a
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.a
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\linux-riscv64\native\libe_sqlite3.a
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\linux-riscv64\native\libe_sqlite3.so
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\linux-s390x\native\libe_sqlite3.a
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\linux-x64\native\libe_sqlite3.a
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\linux-x86\native\libe_sqlite3.a
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\InstaBet Website.csproj.AssemblyReference.cache
