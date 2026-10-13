@@ -103,10 +103,11 @@ namespace InstaBet_Server.Controllers
         }
 
         [HttpGet("check/{username}")]
-        public async Task<ActionResult<bool>> CheckUsername(string username)
+        public async Task<ActionResult<bool>> CheckUser(UserInformation user)
         {
-            var user = await database.UserInformation
-                .FirstOrDefaultAsync(u => u.Username == username);
+            var check = await database.UserInformation
+                .FirstOrDefaultAsync(u => u.Username == user.Username &&
+                u.Password == user.Password);
 
             if (user != null)
             {

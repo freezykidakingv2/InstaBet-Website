@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\coding projects\\InstaBet Website\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8776F10-5C95-DB69-8F57-EC0FA6CDD8CB}|InstaBet Website\\InstaBet Website.csproj|d:\\coding projects\\instabet website\\instabet website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8776F10-5C95-DB69-8F57-EC0FA6CDD8CB}|InstaBet Website\\InstaBet Website.csproj|solutionrelative:instabet website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A8776F10-5C95-DB69-8F57-EC0FA6CDD8CB}|InstaBet Website\\InstaBet Website.csproj|d:\\coding projects\\instabet website\\instabet website\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A8776F10-5C95-DB69-8F57-EC0FA6CDD8CB}|InstaBet Website\\InstaBet Website.csproj|solutionrelative:instabet website\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8776F10-5C95-DB69-8F57-EC0FA6CDD8CB}|InstaBet Website\\InstaBet Website.csproj|d:\\coding projects\\instabet website\\instabet website\\controllers\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8776F10-5C95-DB69-8F57-EC0FA6CDD8CB}|InstaBet Website\\InstaBet Website.csproj|solutionrelative:instabet website\\controllers\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8776F10-5C95-DB69-8F57-EC0FA6CDD8CB}|InstaBet Website\\InstaBet Website.csproj|d:\\coding projects\\instabet website\\instabet website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8776F10-5C95-DB69-8F57-EC0FA6CDD8CB}|InstaBet Website\\InstaBet Website.csproj|solutionrelative:instabet website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,15 +30,15 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\coding projects\\InstaBet Website\\InstaBet Website\\appsettings.json",
               "RelativeDocumentMoniker": "InstaBet Website\\appsettings.json",
@@ -55,7 +59,7 @@
       "FloatingWindowState": {
         "Id": "cca15d0f-ddba-457f-a22a-e4ac38a55f52",
         "Display": 0,
-        "X": -3,
+        "X": -2,
         "Y": 2,
         "Width": 1542,
         "Height": 818,
@@ -68,7 +72,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\coding projects\\InstaBet Website\\InstaBet Website\\Program.cs",
               "RelativeDocumentMoniker": "InstaBet Website\\Program.cs",
@@ -77,6 +81,40 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-18T05:42:16.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "8f2bd0ab-4357-479b-80f8-b3f377388bf5",
+        "Display": 0,
+        "X": 765,
+        "Y": 2,
+        "Width": 774,
+        "Height": 818,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\coding projects\\InstaBet Website\\InstaBet Website\\Controllers\\Database.cs",
+              "RelativeDocumentMoniker": "InstaBet Website\\Controllers\\Database.cs",
+              "ToolTip": "D:\\coding projects\\InstaBet Website\\InstaBet Website\\Controllers\\Database.cs",
+              "RelativeToolTip": "InstaBet Website\\Controllers\\Database.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAuwG0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T17:32:21.061Z",
               "EditorCaption": ""
             }
           ]
