@@ -193,3 +193,5 @@ D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtime
 D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\win-x64\native\e_sqlite3.dll
 D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtimes\win-x86\native\e_sqlite3.dll
 D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\InstaBet Website.csproj.AssemblyReference.cache
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\InstaBet Website.sourcelink.json
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\scopedcss\scopedcss.cache

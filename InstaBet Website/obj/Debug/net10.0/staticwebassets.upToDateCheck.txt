@@ -64,6 +64,7 @@ wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
 D:\coding projects\InstaBet Website\InstaBet Website\wwwroot\css\site.css
 D:\coding projects\InstaBet Website\InstaBet Website\wwwroot\favicon.ico
+D:\coding projects\InstaBet Website\InstaBet Website\wwwroot\js\site.js
 D:\coding projects\InstaBet Website\InstaBet Website\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 D:\coding projects\InstaBet Website\InstaBet Website\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 D:\coding projects\InstaBet Website\InstaBet Website\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
@@ -123,4 +124,3 @@ D:\coding projects\InstaBet Website\InstaBet Website\wwwroot\lib\jquery\dist\jqu
 D:\coding projects\InstaBet Website\InstaBet Website\wwwroot\lib\jquery\dist\jquery.slim.min.js
 D:\coding projects\InstaBet Website\InstaBet Website\wwwroot\lib\jquery\dist\jquery.slim.min.map
 D:\coding projects\InstaBet Website\InstaBet Website\wwwroot\lib\jquery\LICENSE.txt
-D:\coding projects\InstaBet Website\InstaBet Website\wwwroot\js\site.js

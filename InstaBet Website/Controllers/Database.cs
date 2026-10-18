@@ -102,17 +102,24 @@ namespace InstaBet_Server.Controllers
             return Ok(await database.SaveChangesAsync());
         }
 
-        [HttpGet("check/{username}")]
-        public async Task<ActionResult<bool>> CheckUser(UserInformation user)
+        [HttpPost("check")]
+        public async Task<ActionResult<bool>> CheckUser([FromBody] UserInformation user)
         {
-            var check = await database.UserInformation
-                .FirstOrDefaultAsync(u => u.Username == user.Username &&
-                u.Password == user.Password);
-
-            if (user != null)
+            try
             {
-                Debug.WriteLine($"User found: {user}, {user.ID}");
-                return Ok(true);
+                var check = await database.UserInformation
+                    .FirstOrDefaultAsync(u => u.Username == user.Username &&
+                    u.Password == user.Password);
+
+                if (check != null)
+                {
+                    Debug.WriteLine($"User found: {user}, {user.ID}");
+                    return Ok(true);
+                }
+            }
+            catch (Exception e)
+            {
+                return Ok(e);
             }
 
             return Ok(false);

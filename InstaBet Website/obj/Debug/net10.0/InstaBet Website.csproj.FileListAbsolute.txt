@@ -193,3 +193,16 @@ D:\coding projects\InstaBet Website\InstaBet Website\bin\Debug\net10.0\runtimes\
 D:\coding projects\InstaBet Website\InstaBet Website\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
 D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\InstaBet Website.csproj.AssemblyReference.cache
 D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\compressed\ph8w3tf72t-{0}-o0a9jxg0cv-o0a9jxg0cv.gz
+D:\coding projects\InstaBet Website\InstaBet Website\bin\Debug\net10.0\InstaBet Website.runtimeconfig.dev.json
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\dotnet-watch\Microsoft.NET.Sdk.BlazorWeb.DotNetWatch.lib.module.js
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\dotnet-watch\Microsoft.NET.Sdk.BlazorWeb.DotNetWatch.BrowserTools.js
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\dotnet-watch\Microsoft.NET.Sdk.BlazorWeb.DotNetWatch.BrowserTools.Config.js
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\dotnet-watch\browser-tools-key.public.json
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\dotnet-watch\browser-tools-key.private.json
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\InstaBet Website.sourcelink.json
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\jsmodules\jsmodules.build.manifest.json
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\scopedcss\scopedcss.cache
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\compressed\0qsroqt44y-{0}-hbxp78vwan-hbxp78vwan.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\compressed\xrtiaofoiu-{0}-oadee67wpl-oadee67wpl.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\compressed\y04iontozp-{0}-pmpabpnd9a-pmpabpnd9a.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\compressed\kv8ci34tto-{0}-o299wl1apk-o299wl1apk.gz
