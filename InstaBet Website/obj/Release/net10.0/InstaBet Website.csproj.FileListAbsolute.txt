@@ -21,7 +21,6 @@ D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\rjsmcsh
 D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\scopedcss\bundle\InstaBet Website.styles.css
 D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\scopedcss\projectbundle\InstaBet Website.bundle.scp.css
-D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\4lh9y97njc-{0}-4igcxewjl9-4igcxewjl9.gz
 D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\j776w1kmaz-{0}-61n19gt1b8-61n19gt1b8.gz
 D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\kg55finz2h-{0}-bqjiyaj88i-bqjiyaj88i.gz
 D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\uigc97lg4x-{0}-c2jlpeoesf-c2jlpeoesf.gz
@@ -195,3 +194,4 @@ D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtime
 D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\InstaBet Website.csproj.AssemblyReference.cache
 D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\InstaBet Website.sourcelink.json
 D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\scopedcss\scopedcss.cache
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\4lh9y97njc-{0}-vwl0kazkda-vwl0kazkda.gz

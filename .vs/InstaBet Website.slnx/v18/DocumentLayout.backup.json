@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\coding projects\\InstaBet Website\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A8776F10-5C95-DB69-8F57-EC0FA6CDD8CB}|InstaBet Website\\InstaBet Website.csproj|d:\\coding projects\\instabet website\\instabet website\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A8776F10-5C95-DB69-8F57-EC0FA6CDD8CB}|InstaBet Website\\InstaBet Website.csproj|solutionrelative:instabet website\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8776F10-5C95-DB69-8F57-EC0FA6CDD8CB}|InstaBet Website\\InstaBet Website.csproj|d:\\coding projects\\instabet website\\instabet website\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8776F10-5C95-DB69-8F57-EC0FA6CDD8CB}|InstaBet Website\\InstaBet Website.csproj|solutionrelative:instabet website\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A8776F10-5C95-DB69-8F57-EC0FA6CDD8CB}|InstaBet Website\\InstaBet Website.csproj|d:\\coding projects\\instabet website\\instabet website\\controllers\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8776F10-5C95-DB69-8F57-EC0FA6CDD8CB}|InstaBet Website\\InstaBet Website.csproj|solutionrelative:instabet website\\controllers\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8776F10-5C95-DB69-8F57-EC0FA6CDD8CB}|InstaBet Website\\InstaBet Website.csproj|d:\\coding projects\\instabet website\\instabet website\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A8776F10-5C95-DB69-8F57-EC0FA6CDD8CB}|InstaBet Website\\InstaBet Website.csproj|solutionrelative:instabet website\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8776F10-5C95-DB69-8F57-EC0FA6CDD8CB}|InstaBet Website\\InstaBet Website.csproj|d:\\coding projects\\instabet website\\instabet website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8776F10-5C95-DB69-8F57-EC0FA6CDD8CB}|InstaBet Website\\InstaBet Website.csproj|solutionrelative:instabet website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8776F10-5C95-DB69-8F57-EC0FA6CDD8CB}|InstaBet Website\\InstaBet Website.csproj|d:\\coding projects\\instabet website\\instabet website\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -18,23 +34,41 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\coding projects\\InstaBet Website\\InstaBet Website\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "InstaBet Website\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\coding projects\\InstaBet Website\\InstaBet Website\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "InstaBet Website\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-21T06:05:39.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\coding projects\\InstaBet Website\\InstaBet Website\\Program.cs",
+              "RelativeDocumentMoniker": "InstaBet Website\\Program.cs",
+              "ToolTip": "D:\\coding projects\\InstaBet Website\\InstaBet Website\\Program.cs",
+              "RelativeToolTip": "InstaBet Website\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T05:57:56.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\coding projects\\InstaBet Website\\InstaBet Website\\appsettings.json",
               "RelativeDocumentMoniker": "InstaBet Website\\appsettings.json",
@@ -68,15 +102,83 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Database.cs",
               "DocumentMoniker": "D:\\coding projects\\InstaBet Website\\InstaBet Website\\Controllers\\Database.cs",
               "RelativeDocumentMoniker": "InstaBet Website\\Controllers\\Database.cs",
               "ToolTip": "D:\\coding projects\\InstaBet Website\\InstaBet Website\\Controllers\\Database.cs",
               "RelativeToolTip": "InstaBet Website\\Controllers\\Database.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAkwGgAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAkwHgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-13T17:32:21.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "b278b1f0-3f2e-4e8f-93a7-c5c2833a82cf",
+        "Display": 0,
+        "X": 765,
+        "Y": 2,
+        "Width": 774,
+        "Height": 818,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\coding projects\\InstaBet Website\\InstaBet Website\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "InstaBet Website\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\coding projects\\InstaBet Website\\InstaBet Website\\Pages\\Index.cshtml",
+              "RelativeToolTip": "InstaBet Website\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T05:23:28.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "307273fb-7198-439a-993a-0151957f8548",
+        "Display": 0,
+        "X": 765,
+        "Y": 2,
+        "Width": 774,
+        "Height": 818,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\coding projects\\InstaBet Website\\InstaBet Website\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "InstaBet Website\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\coding projects\\InstaBet Website\\InstaBet Website\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "InstaBet Website\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwEEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-21T05:37:18.543Z",
               "EditorCaption": ""
             }
           ]

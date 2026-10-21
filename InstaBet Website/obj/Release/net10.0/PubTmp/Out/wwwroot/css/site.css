@@ -32,14 +32,36 @@ body {
 
 .download-button {
     display: inline-block;
-    padding: 160px 120px;
+    padding: 14px 28px;
     background-color: blue;
     color: white;
     text-decoration: none;
     border-radius: 8px;
     cursor: pointer;
+    font-weight: bold;
+    margin: 20px 0;
 }
 
 .download-button:hover {
     background-color: darkblue;
+}
+
+.download-button:hover {
+    background-color: darkblue;
+}
+
+.instabet-container {
+    width: 100%;
+    max-width: 1400px;
+    margin: 30px auto;
+    padding: 0 10px;
+}
+
+.instabet-screenshot {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    position: relative;
+    left: 0;
+    top: 0;
 }

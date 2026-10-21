@@ -61,7 +61,13 @@ wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\js\site.js
 wwwroot\favicon.ico
 wwwroot\Downloads\com.freezykidaking.instabet-Signed.apk
+wwwroot\Images\InstaBetApk .png
 wwwroot\css\site.css
+wwwroot\Images\InstaBet screenshot 1.webp
+wwwroot\Images\InstaBet screenshot 3.webp
+wwwroot\Images\InstaBet screenshot apk 2.png
+wwwroot\Images\InstaBet screenshot apk 3.png
+wwwroot\Images\screenshot 2.webp
 D:\coding projects\InstaBet Website\InstaBet Website\wwwroot\lib\jquery\LICENSE.txt
 D:\coding projects\InstaBet Website\InstaBet Website\wwwroot\lib\jquery\dist\jquery.slim.min.map
 D:\coding projects\InstaBet Website\InstaBet Website\wwwroot\lib\jquery\dist\jquery.slim.min.js

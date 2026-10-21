@@ -95,7 +95,6 @@ D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\InstaBet 
 D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\InstaBet Website.genruntimeconfig.cache
 D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\ref\InstaBet Website.dll
 D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\InstaBet.2532F521.Up2Date
-D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\compressed\4lh9y97njc-{0}-4igcxewjl9-4igcxewjl9.gz
 D:\coding projects\InstaBet Website\InstaBet Website\bin\Debug\net10.0\Azure.Core.dll
 D:\coding projects\InstaBet Website\InstaBet Website\bin\Debug\net10.0\Azure.Identity.dll
 D:\coding projects\InstaBet Website\InstaBet Website\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -206,3 +205,4 @@ D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\compresse
 D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\compressed\xrtiaofoiu-{0}-oadee67wpl-oadee67wpl.gz
 D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\compressed\y04iontozp-{0}-pmpabpnd9a-pmpabpnd9a.gz
 D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\compressed\kv8ci34tto-{0}-o299wl1apk-o299wl1apk.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\compressed\4lh9y97njc-{0}-v8ni1jel1h-v8ni1jel1h.gz

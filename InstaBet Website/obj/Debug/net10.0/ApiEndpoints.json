@@ -18,19 +18,14 @@
   {
     "ContainingType": "InstaBet_Server.Controllers.Database",
     "Method": "CheckUser",
-    "RelativePath": "api/check/{username}",
-    "HttpMethod": "GET",
+    "RelativePath": "api/check",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
         "Name": "user",
         "Type": "InstaBet_Server.Controllers.UserInformation",
-        "IsRequired": true
-      },
-      {
-        "Name": "username",
-        "Type": "",
         "IsRequired": true
       }
     ],
