@@ -194,4 +194,4 @@ D:\coding projects\InstaBet Website\InstaBet Website\bin\Release\net10.0\runtime
 D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\InstaBet Website.csproj.AssemblyReference.cache
 D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\InstaBet Website.sourcelink.json
 D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\scopedcss\scopedcss.cache
-D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\4lh9y97njc-{0}-vwl0kazkda-vwl0kazkda.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Release\net10.0\compressed\4lh9y97njc-{0}-e2t15ravw6-e2t15ravw6.gz

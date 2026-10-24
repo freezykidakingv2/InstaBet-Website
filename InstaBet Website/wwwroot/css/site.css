@@ -56,16 +56,45 @@ body {
     height: 90%;
     max-height: 1080px;
     margin: 30px auto;
+    margin-right: 460px;
+    margin-bottom: 1080px; 
     padding: 0 10px;
 }
 
 .instabet-screenshot {
-    width: 50%;
+    width: 10%;
     max-width: 600px;
-    margin-left: auto;
-    margin-right: 60%;
-    margin-top: 30px;
-    position: relative;
+    margin-left: 800px;
+    margin-right: 0px;
+    margin-top: 320px;
+    position: absolute;
     left: 0;
     top: 0;
+}
+
+.instabet-screenshot2 {
+    width: 10%;
+    max-width: 600px;
+    margin-left: 560px;
+    margin-right: 0px;
+    margin-top: 320px;
+    margin-bottom: 0px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+.instabet-screenshot3 {
+    width: 10%;
+    max-width: 600px;
+    margin-left: 300px;
+    margin-right: 0;
+    margin-top: 320px;
+    margin-bottom: 0px;
+    position: absolute;
+    left: 0;
+    top: 0px;
+    bottom: 250px;
 }

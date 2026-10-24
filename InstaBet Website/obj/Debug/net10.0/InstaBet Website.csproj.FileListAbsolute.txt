@@ -205,4 +205,4 @@ D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\compresse
 D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\compressed\xrtiaofoiu-{0}-oadee67wpl-oadee67wpl.gz
 D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\compressed\y04iontozp-{0}-pmpabpnd9a-pmpabpnd9a.gz
 D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\compressed\kv8ci34tto-{0}-o299wl1apk-o299wl1apk.gz
-D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\compressed\4lh9y97njc-{0}-v8ni1jel1h-v8ni1jel1h.gz
+D:\coding projects\InstaBet Website\InstaBet Website\obj\Debug\net10.0\compressed\4lh9y97njc-{0}-gm91bdpnkl-gm91bdpnkl.gz

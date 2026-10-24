@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InstaBet Website")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+471dc05d39e2eaab28984e69bc1acd95084f9a1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac163dac9bf00488487ccbf4b720299f36021dc6")]
 [assembly: System.Reflection.AssemblyProductAttribute("InstaBet Website")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InstaBet Website")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
